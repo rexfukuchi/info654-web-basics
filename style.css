@@ -1,0 +1,36 @@
+h1, h2 {
+    color: mediumblue;
+    text-align: center;
+} 
+header {
+    background-color :aqua;
+    padding: 10px;
+}
+img {
+    display: block;
+    padding: 10px;
+}
+table, img {
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border: 2px solid blueviolet;
+    border-collapse: collapse;
+    padding: 5px;
+}
+#nav {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+#nav li {
+    display: inline;
+}
+.centered {
+    text-align: center;
+}
+.italic {
+    font-style: italic;
+}
